@@ -1,8 +1,17 @@
 <h1 align="center">Hi 👋, I'm Veevek</h1>
 <h3 align="center">A passionate backend developer</h3>
 
-# 💫 About Me:
-I'm currently working on <br>I'm currently learning<br>
+## 💫 About Me:
+<p><strong>✅ Currently Working On:</strong><br>
+Building a smart ETL pipeline using Spring Boot and Spring Batch to automate data ingestion, transformation, and enrichment. The pipeline integrates with GenAI APIs to standardize, classify, and generate missing data fields, producing high-quality, analytics-ready datasets.
+</p>
+
+<p><strong>✅ Currently Learning:</strong><br>
+- Designing scalable ETL architectures with Spring Batch<br>
+- Integrating generative AI (GenAI) APIs into data engineering workflows<br>
+- Advanced data cleaning and enrichment techniques<br>
+- Best practices for monitoring and error handling in ETL pipelines
+</p>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/veevekdv) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:veevekd401@gmail.com) 
