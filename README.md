@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Veevek</h1>
 <h3 align="center">A passionate Back End developer</h3>
 
+# 💫 About Me:
+I'm currently working on <br>I'm currently learning<br>
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dave" alt="dave" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
